@@ -1,0 +1,14 @@
+{
+    "name": "stepanova/php-package",
+    "authors": [
+        {
+            "name": "Stepanova Maria",
+            "email": "mstepanova@ecias.ru"
+        }
+    ],
+    "autoload": {
+		"psr-4" : {
+			"Stepanova\\PSR4\\" : "src/Stepanova"
+		}
+	}
+}
